@@ -1,8 +1,7 @@
 ### Hi there 👋
 # Halo semua! 
 Perkenalkan nama saya **Endang Supriyadi**.\
-Saya seorang mahasiswa Universitas Muhammadiyah Cirebon \
-Saya sering mengikuti kelas-kelas terutama di dicoding\
+Saya seorang Software Engineer dan Data Enthusiast \
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/endang-supriyadi-434b38228/)ku ya.
 <!--
 **EndangSupriyadi/EndangSupriyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
